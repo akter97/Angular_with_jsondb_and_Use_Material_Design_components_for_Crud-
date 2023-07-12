@@ -8,7 +8,10 @@ Only 3 Requement <br>
   2, Open Command Prompt </br>
   2, ng serve -open or ng s --o  </br>
   3, json-server --watch db.json</br>
- 
+
+## Video File
+[7_12_2023/AngularMetirial%20crud.mp4](https://github.com/NishanAkterRaj/All_Picture-and-Video-File/blob/f6009c5fc660f07ee30c2251857542dea1c2869f/7_12_2023/AngularMetirial%20crud.mp4)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
