@@ -1,7 +1,14 @@
-# Crud
+# Angular with jsondb and Use Material Design components for Crud Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+Install the required Dependencies
 
+## How to use of code
+Only 3 Requement 
+  1, Dowload Code My git File
+  2, Open Command Prompt
+  2, ng serve -open or ng s --o 
+  3, json-server --watch db.json
+ 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
@@ -14,10 +21,19 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+<marquee width="100%" direction="up" height="100px">
+This is a sample scrolling text that has scrolls in the upper direction.
+</marquee>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<marquee behavior="alternate">Alternate marquee behavior</marquee>
 
+## Font-End Show Angular
+Index Page 
+![7_12_2023/output1.PNG](https://github.com/NishanAkterRaj/All_Picture/blob/cd917138274b71ee27e78127e5118fed982cb1b0/7_12_2023/output1.PNG) 
+
+
+ Input Form View
+![7_12_2023/output 2.PNG](https://github.com/NishanAkterRaj/All_Picture/blob/cd917138274b71ee27e78127e5118fed982cb1b0/7_12_2023/output%202.PNG) 
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
