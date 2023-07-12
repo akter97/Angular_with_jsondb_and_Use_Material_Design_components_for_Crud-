@@ -3,11 +3,11 @@
 Install the required Dependencies
 
 ## How to use of code
-Only 3 Requement 
-  1, Dowload Code My git File
-  2, Open Command Prompt
-  2, ng serve -open or ng s --o 
-  3, json-server --watch db.json
+Only 3 Requement <br>
+  1, Dowload Code My git File </br>
+  2, Open Command Prompt </br>
+  2, ng serve -open or ng s --o  </br>
+  3, json-server --watch db.json</br>
  
 ## Development server
 
@@ -20,12 +20,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-<marquee width="100%" direction="up" height="100px">
-This is a sample scrolling text that has scrolls in the upper direction.
-</marquee>
-
-<marquee behavior="alternate">Alternate marquee behavior</marquee>
+ 
 
 ## Font-End Show Angular
 Index Page 
